@@ -1,0 +1,5 @@
+project/
+│
+├── index.html        # Main HTML structure
+├── byte1.css         # Styling for the webpage
+└── images/           # Images used in the project
